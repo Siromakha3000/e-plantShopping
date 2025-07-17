@@ -235,7 +235,7 @@ body {
 }
 
 .product-button.added-to-cart {
-    background-color: grey;
+    background-color: grey !important;
     /* Grey when product is added */
 }
 
